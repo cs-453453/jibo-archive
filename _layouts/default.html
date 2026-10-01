@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% if page.title %}{{ page.title }} | {% endif %}Jibo Archive</title>
+    <meta name="description" content="A collection of Jibo-related content, photos, and repositories.">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+    {% feed_meta %}
+</head>
+<body>
+    <header>
+        <h1>🤖 Jibo Archive</h1>
+        <p>A collection of Jibo-related content and memories</p>
+    </header>
+
+    <nav>
+        <a href="{{ site.baseurl }}/">Home</a>
+        <a href="{{ site.baseurl }}/photos/">Photos</a>
+        <a href="{{ site.baseurl }}/repos/">Repositories</a>
+    </nav>
+
+    <div class="container">
+        {{ content }}
+    </div>
+
+    <footer>
+        <p>&copy; 2026 Jibo Archive. Preserving memories of Jibo.</p>
+        <p><a href="https://github.com/cs-453453/jibo-archive">View on GitHub</a></p>
+    </footer>
+</body>
+</html>

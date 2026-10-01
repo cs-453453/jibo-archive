@@ -1,3 +1,25 @@
-theme: jekyll-theme-minimal
 title: Jibo Archive
 description: A collection of Jibo-related content, photos, and repositories
+theme: jekyll-default
+remote_theme: pages-themes/minimal@v0.2.0
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Site settings
+url: "https://cs-453453.github.io"
+baseurl: "/jibo-archive"
+future: false
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+# Exclude
+exclude:
+  - .gitignore
+  - .github
