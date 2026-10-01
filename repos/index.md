@@ -20,6 +20,7 @@ A collection of Jibo-related open-source projects, resources, and community cont
 | https://github.com/mitmedialab/jibo-workshop | Jibo Workshop 2026 | https://github.com/cs-453453/jibo-workshop |
 | https://github.com/mitmedialab/jibo-workshop-mcp | mcp server for ^ | https://github.com/cs-453453/jibo-workshop-mcp |
 | https://github.com/mitmedialab/Jibo_Models | jibo 3d models | https://github.com/cs-453453/Jibo_Models |
+| https://github.com/mitmedialab/jibo-workshop-hri2024 | jibo hri 2024 workshop | https://github.com/cs-453453/jibohriwkshp |
 | *Coming soon!* | Contribute your favorite Jibo repos | [Submit PR](https://github.com/cs-453453/jibo-archive) | -----|
 
 ---
