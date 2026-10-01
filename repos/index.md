@@ -14,9 +14,10 @@ A collection of Jibo-related open-source projects, resources, and community cont
 ## Featured Repositories
 
 | Repository | Description | Link |
-| https://github.com/mitmedialab/jibo-workshop-fol2024|Jibo Workshop 2024 | https://github.com/cs-453453/jibo-workshop-fol2024 |
+| https://github.com/mitmedialab/jibo-workshop-fol2024| Jibo Workshop 2024 | https://github.com/cs-453453/jibo-workshop-fol2024 |
 | https://github.com/mitmedialab/jibo-console-outputter | dump jibos console | https://github.com/cs-453453/jibo-console-outputter |
-| https://github.com/mitmedialab/jibo-skills | how to build jibo skills | https://cs-453453.github.io/Jibo-skills/) |
+| https://github.com/mitmedialab/jibo-skills | how to build jibo skills | https://cs-453453.github.io/Jibo-skills/ |
+| https://github.com/mitmedialab/jibo-workshop | Jibo Workshop 2026 | https://github.com/cs-453453/jibo-workshop |
 | *Coming soon!* | Contribute your favorite Jibo repos | [Submit PR](https://github.com/cs-453453/jibo-archive) | -----|
 
 ---
