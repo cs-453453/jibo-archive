@@ -14,8 +14,8 @@ A collection of Jibo-related open-source projects, resources, and community cont
 ## Featured Repositories
 
 | Repository | Description | Link |
-|------------|-------------|------|
-| *Coming soon!* | Contribute your favorite Jibo repos | [Submit PR](https://github.com/cs-453453/jibo-archive) |
+|https://github.com/mitmedialab/jibo-workshop-fol2024|Jibo Workshop 2024|https://github.com/cs-453453/jibo-workshop-fol2024
+| *Coming soon!* | Contribute your favorite Jibo repos | [Submit PR](https://github.com/cs-453453/jibo-archive) | -----|
 
 ---
 
