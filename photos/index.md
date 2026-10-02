@@ -16,7 +16,7 @@ Collection of Jibo photos with sources and attribution. Help preserve Jibo's leg
 | Photo | Source | Archive Link |
 |-------|--------|------|
 | Jibo at 230 Congress | [230congress.com](https://www.230congress.com/uploads/1/1/3/3/113308817/background-images/991697065.jpg) | [View](./jibo230congress.jpg) |
-
+| Jibo Teaser Ad (Video) | [amazon.com](https://www.amazon.com/live/video/832a7584e30c4204bfe529c0c30a95c0) | [View](https://archive.org/details/jibo-ad) |
 ---
 
 ## Contributing Photos
